@@ -1,2 +1,1 @@
-# B-Tech_Computer_Science
-This repository is related to my B-Tech learnings, exploration, research and development .
+the repository has the codes for implementation of stack.
